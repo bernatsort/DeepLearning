@@ -5,7 +5,6 @@ Three exercises covering deep learning topics such as Multi-Layer Perceptron (ML
 
 ### 1. NEO Earth Close Approaches 
 - https://drive.google.com/drive/folders/1Axx9L729quUdqvj4Pm9xawWyCBh4eHy4?usp=sharing
-
 ### 2. Multi-class Weather Datasetfor Image Classification
 - https://drive.google.com/drive/folders/1pYvev_wh5utkoX_SKOvSeMdiJBeGWPYs?usp=sharing
 Resized images: 
